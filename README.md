@@ -1,11 +1,10 @@
 # szurubooru
 
-Szurubooru is an image board engine inspired by services such as Danbooru,
-Gelbooru and Moebooru dedicated for small and medium communities. Its name [has
-its roots in Polish language and has onomatopeic meaning of scraping or
-scrubbing](https://sjp.pwn.pl/sjp/;2527372). It is pronounced as *shoorubooru*.
+Szurubooru 是一个图像板引擎，其灵感来自于 Danbooru、Gelbooru 和 Moebooru，致力于中小型社区。 
+它的名字[源于波兰语，具有刮擦或擦洗的拟声含义](https://sjp.pwn.pl/sjp/;2527372)。
+它的发音为 *shoorubooru*.
 
-## Features
+## 特点
 
 - Post content: images (JPG, PNG, GIF, animated GIF), videos (MP4, WEBM), Flash animations
 - Ability to retrieve web video content using [yt-dlp](https://github.com/yt-dlp/yt-dlp)
