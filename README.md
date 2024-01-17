@@ -8,19 +8,19 @@ Szurubooru 是一个图像板引擎，其灵感来自于 Danbooru、Gelbooru 和
 
 ## 特点
 
-- Post content: images (JPG, PNG, GIF, animated GIF), videos (MP4, WEBM), Flash animations
-- Ability to retrieve web video content using [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- Post comments
-- Post notes / annotations, including arbitrary polygons
-- Rich JSON REST API ([see documentation](doc/API.md))
-- Token based authentication for clients
-- Rich search system
-- Rich privilege system
-- Autocomplete in search and while editing tags
-- Tag categories
-- Tag suggestions
-- Tag implications (adding a tag automatically adds another)
-- Tag aliases
+- 帖子内容: 图片 (JPG, PNG, GIF, animated GIF), 视频 (MP4, WEBM), Flash 动画
+- 使用 [yt-dlp](https://github.com/yt-dlp/yt-dlp 搜索网络视频内容
+- 发表评论
+-  笔记 / 注释, 包括任意的 polygons
+- 丰富的 JSON REST API ([see documentation](doc/API.md))
+- 基于 token 的客户端身份验证
+- 丰富的搜索系统
+- 丰富的权限系统
+- 搜索和编辑标签时自动补全
+- 标签类别
+- 标签建议
+- 标签 implications（添加标签会自动添加另一个标签）
+- 标签别名
 - Pools and pool categories
 - Duplicate detection
 - Post rating and favoriting; comment rating
