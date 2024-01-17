@@ -1,7 +1,9 @@
 # szurubooru
 
 Szurubooru 是一个图像板引擎，其灵感来自于 Danbooru、Gelbooru 和 Moebooru，致力于中小型社区。 
+
 它的名字[源于波兰语，具有刮擦或擦洗的拟声含义](https://sjp.pwn.pl/sjp/;2527372)。
+
 它的发音为 *shoorubooru*.
 
 ## 特点
